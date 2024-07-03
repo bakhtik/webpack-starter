@@ -1,7 +1,8 @@
 {
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "devDependencies": {
     "css-loader": "^7.1.2",
